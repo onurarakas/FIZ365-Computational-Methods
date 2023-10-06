@@ -1,1 +1,1 @@
-print("Merhaba Dünya\n\nBiz Fizikçiyiz")
+print("Merhaba Dünya\n\nBiz Kimyacıyız")
